@@ -72,7 +72,7 @@ Este trecho de código PHP calcula o salário final de um vendedor e exibe na te
 | echo |	A função `echo` exibe dados ou variáveis na saída padrão do PHP.|
 | += | Adiciona o valor do lado direito à variável do lado esquerdo e armazena o resultado na própria variável. |
 <br>
-<h1><strong> Exemplo de uso na prática </strong> </h1>
+<h1> Exemplo de uso na prática </h1>
 
 <img src="img/exemplo1.PNG" width="650px">
 <br>
