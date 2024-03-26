@@ -7,7 +7,7 @@
 [Fontes consultadas](#fontes-consultadas)  
 [Autores](#autores)  
 <br>
-# Projeto - 
+# Projeto 
 Essa tarefa tem como objetivo simular o cálculo dos salários dos vendedores de uma empresa, e foi utilizada no processo seletivo para o cargo de assistente administrativo, onde participaram Fabinho e Renata.
 
 A empresa estabeleceu algumas regras:
