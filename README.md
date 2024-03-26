@@ -1,6 +1,6 @@
 # Trabalho_Sistema_de_Salario
 # Índice
-[Projeto - ](#projeto---portifolio-para-escrita-do-readme)  
+[Projeto ](#projeto---portifolio-para-escrita-do-readme)  
 [Descrição](#descri%C3%A7%C3%A3o)  
 [Funcionalidades](#funcionalidades)  
 [Tecnologias ultilizadas](#tecnologias-ultilizadas)    
