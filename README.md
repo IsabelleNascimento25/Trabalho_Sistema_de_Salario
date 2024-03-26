@@ -85,6 +85,7 @@ Aqui você colocara as suas irformações sobre o seu trabalho.
 <img src="img/exemplo3.PNG" width="650px">
 <br>
 E aqui tera o resultado de quanto você vai ganhar de bonus e o total juntando com o seu salario fixo e as vendas a mais.
+
 ## Tecnologias utilizadas
 
  * <img alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> <br>
