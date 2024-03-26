@@ -38,23 +38,27 @@ Assim, o salário final do colaborador seria calculado somando o salário mínim
 <br>
 # Descrição - 
 
-   <img src="img/imagem1.png" width="700px">
+<img src="img/imagem1.png" width="700px">
+<br>
 Esse trecho escreve as informações que o usuário precisara informar para a concretização do código.
+<br>
+<br>
 <img src="img/imagem2.png" width="700px">
-
+<br>
 Esse trecho de código PHP verifica se determinados campos foram preenchidos e submetidos em um formulário HTML através do método POST. Se os campos estiverem definidos, seus valores são atribuídos a variáveis locais para posterior uso no script PHP.
 <br>
+<br>
 <img src="img/imagem3.png" width="700px">
-
+<br>
 Esse trecho de código PHP calcula o bônus semanal de um vendedor com base no valor total de suas vendas semanais. Ele verifica se o valor total de vendas atinge ou ultrapassa a meta semanal definida. Se a meta for alcançada, calcula o bônus adicionando 1% do valor da meta e 5% do excedente das vendas em relação à meta ao total do bônus semanal.
-    
+<br>
 <br>
 <img src="img/imagem4.png" width="700px">
-    
+<br> 
 Esse trecho de código PHP calcula o bônus mensal de um vendedor com base no valor total de suas vendas mensais. Ele verifica se o valor total de vendas excede a meta mensal definida. Se exceder, calcula o bônus adicionando 10% do valor excedente das vendas em relação à meta ao total do bônus mensal.
-    
+<br>
 <br>
 <img src="img/imagem4.png" width="700px">
-
+<br>
 Este trecho de código PHP calcula o salário final de um vendedor e exibe na tela o nome do vendedor, seus bônus semanal e mensal, e seu salário final. Se algum campo do formulário não estiver preenchido, exibe uma mensagem de erro pedindo para preencher todos os campos.
 <br>
