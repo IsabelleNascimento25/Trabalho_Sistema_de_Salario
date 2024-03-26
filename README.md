@@ -6,8 +6,9 @@
 [Tecnologias ultilizadas](#tecnologias-ultilizadas)    
 [Fontes consultadas](#fontes-consultadas)  
 [Autores](#autores)  
-<br>
+
 # Projeto 
+
 Essa tarefa tem como objetivo simular o cálculo dos salários dos vendedores de uma empresa, e foi utilizada no processo seletivo para o cargo de assistente administrativo, onde participaram Fabinho e Renata.
 
 A empresa estabeleceu algumas regras:
@@ -35,7 +36,7 @@ Assim, o salário final do colaborador seria calculado somando o salário mínim
 <br>
 <strong>Disciplina:</strong> Programação Web I. <br>
 <strong>Professor:</strong>  Leonardo Santiago Sidon da Rocha. <br>
-<br>
+
 # Descrição - 
 
 <img src="img/imagem1.png" width="700px">
@@ -73,17 +74,22 @@ Este trecho de código PHP calcula o salário final de um vendedor e exibe na te
 <br>
 
 ## Tecnologias utilizadas
+
  * <img alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> <br>
   PHP <br>
  * <img alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>
   HTML<br>
  * <img alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
   CSS<br>
+  
   ## Fontes Consultadas
+  
   * https://www.php.net/manual/pt_BR/function.isset.php
   * Chat GPT
   * Git hub
+
 # Autores
+
  <img src="img/isabelle.png" width="50px"> Isabelle Nascimento de Oliveira <br>
 
     
