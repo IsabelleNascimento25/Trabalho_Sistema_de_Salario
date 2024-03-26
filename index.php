@@ -8,7 +8,7 @@
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
 </head>
-<body>
+<body> 
     <h1>Calcular Salário</h1>
 
     <form method="post" action="">
@@ -23,16 +23,15 @@
         <br>
         <p>O quanto que você vendeu por semana: <br><input name="total_semanal" type="number"></p>
         <p>O quanto que você vendeu por mês: <br><input name="total_mensal" type="number"></p>
-
         <button type="submit">Calcular</button>
-
     </form>
 
     <br>
     <br>
 
     <?php
-    if(isset($_POST['salario1'], $_POST['nome'], $_POST['meta_semanal'], $_POST['meta_mensal'], $_POST['total_mensal'], $_POST['total_semanal'])){
+    if(isset($_POST['salario1'], $_POST['nome'], $_POST['meta_semanal'], $_POST['meta_mensal'],
+     $_POST['total_mensal'], $_POST['total_semanal'])){
         $nome = $_POST['nome'];
         $salario1 = $_POST['salario1'];
         $meta_semanal = $_POST['meta_semanal'];
