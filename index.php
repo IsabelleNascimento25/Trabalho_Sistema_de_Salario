@@ -6,13 +6,14 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <title>Calculo de Salário</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <link rel="stylesheet" href="index.css" media='screen' href='main.css'>
+    
 </head>
 <body> 
     <h1>Calcular Salário</h1>
 
     <form method="post" action="">
-        <h2>Coloque suas informações para calcular a soma dos seus bônus por meta</h2>
+        <h2>Coloque as informações da empresa para calcular a soma dos seus bônus por meta</h2>
         <br>
         <p>Nome: <br><input name="nome" type="text"></p>
         <p>Salário: <br><input name="salario1" type="number"></p>
@@ -23,12 +24,11 @@
         <br>
         <p>O quanto que você vendeu por semana: <br><input name="total_semanal" type="number"></p>
         <p>O quanto que você vendeu por mês: <br><input name="total_mensal" type="number"></p>
-        <button type="submit">Calcular</button>
+        <div ontouchstart="">
+  
+        <button name="button" type="submit">Calcular</button>
     </form>
-
-    <br>
-    <br>
-
+    <!-- Configurando a parte de dentro -->
     <?php
     if(isset($_POST['salario1'], $_POST['nome'], $_POST['meta_semanal'], $_POST['meta_mensal'],
      $_POST['total_mensal'], $_POST['total_semanal'])){
