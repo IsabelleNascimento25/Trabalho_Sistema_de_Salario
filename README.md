@@ -61,7 +61,7 @@ Esse trecho de código PHP calcula o bônus mensal de um vendedor com base no va
 <img src="img/imagem4.png" width="700px">
 <br>
 Este trecho de código PHP calcula o salário final de um vendedor e exibe na tela o nome do vendedor, seus bônus semanal e mensal, e seu salário final. Se algum campo do formulário não estiver preenchido, exibe uma mensagem de erro pedindo para preencher todos os campos.
-<br>
+
 # Funcionalidades
 
 | Métodos PHP | Funcionalidade |
