@@ -83,7 +83,10 @@ Este trecho de código PHP calcula o salário final de um vendedor e exibe na te
   * https://www.php.net/manual/pt_BR/function.isset.php
   * Chat GPT
   * Git hub
-#
+<br>
+# Autores
+ <img src="img/isabelle.png" width="50px"> Isabelle Nascimento de Oliveira <br>
+
     
 
   
