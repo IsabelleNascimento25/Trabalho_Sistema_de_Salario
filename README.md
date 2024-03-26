@@ -62,3 +62,28 @@ Esse trecho de código PHP calcula o bônus mensal de um vendedor com base no va
 <br>
 Este trecho de código PHP calcula o salário final de um vendedor e exibe na tela o nome do vendedor, seus bônus semanal e mensal, e seu salário final. Se algum campo do formulário não estiver preenchido, exibe uma mensagem de erro pedindo para preencher todos os campos.
 <br>
+# Funcionalidades
+
+| Métodos PHP | Funcionalidade |
+|--------------------|----------------|
+| isset | é um método em JavaScript usado para verificar se um objeto possui uma propriedade específica.|
+| $ ||Cria uma variável|
+| echo |	A função `echo` exibe dados ou variáveis na saída padrão do PHP.|
+| += | Adiciona o valor do lado direito à variável do lado esquerdo e armazena o resultado na própria variável. |
+<br>
+
+## Tecnologias utilizadas
+ * <img alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> <br>
+  PHP <br>
+ * <img alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>
+  HTML<br>
+ * <img alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
+  CSS<br>
+  ## Fontes Consultadas
+  * https://www.php.net/manual/pt_BR/function.isset.php
+  * Chat GPT
+  * Git hub
+#
+    
+
+  
