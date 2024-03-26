@@ -90,7 +90,7 @@ Este trecho de código PHP calcula o salário final de um vendedor e exibe na te
 
 # Autores
 
- <img src="img/isabelle.png" width="50px"> Isabelle Nascimento de Oliveira <br>
+ <img src="img/isabelle.png" width="50px"> <br> Isabelle Nascimento de Oliveira <br>
 
     
 
