@@ -72,8 +72,19 @@ Este trecho de código PHP calcula o salário final de um vendedor e exibe na te
 | echo |	A função `echo` exibe dados ou variáveis na saída padrão do PHP.|
 | += | Adiciona o valor do lado direito à variável do lado esquerdo e armazena o resultado na própria variável. |
 <br>
-<h1> EXEMPLO DE FUNCIONALIDADE NA PRÁTICA </h1>
+<h1><strong> Exemplo de uso na prática </strong> </h1>
 
+<img src="img/exemplo1.PNG" width="650px">
+<br>
+Colocando as informações sobre o tanto que a empresa paga por bonûs para a programação desenvolver o calculo.
+<br>
+<img src="img/exemplo2.PNG" width="650px">
+<br>
+Aqui você colocara as suas irformações sobre o seu trabalho.
+<br>
+<img src="img/exemplo3.PNG" width="650px">
+<br>
+E aqui tera o resultado de quanto você vai ganhar de bonus e o total juntando com o seu salario fixo e as vendas a mais.
 ## Tecnologias utilizadas
 
  * <img alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> <br>
