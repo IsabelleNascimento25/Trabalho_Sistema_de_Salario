@@ -35,3 +35,22 @@ Assim, o salário final do colaborador seria calculado somando o salário mínim
 <br>
 <strong>Disciplina:</strong> Programação Web I. <br>
 <strong>Professor:</strong>  Leonardo Santiago Sidon da Rocha. <br>
+<br>
+# Descrição - 
+<br>
+   * <img src="img/imagem1.png" width="30px">
+    Descrição
+
+   * <img src="img/imagem2.png" width="30px">
+    Descrição
+
+  * <img src="img/imagem3.png" width="30px">
+    Descrição
+
+  * <img src="img/imagem4.png" width="30px">
+    Descrição
+
+  * <img src="img/imagem4.png" width="30px">
+    Descrição
+
+
