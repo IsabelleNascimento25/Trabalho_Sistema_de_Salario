@@ -59,7 +59,6 @@
                $bonus_mensal += $excedente_mensal * 0.10; // Calcula o bônus (10% do que sobra) e adiciona ao bônus mensal
             }
             }
-        }
 
         $salario2 = $salario1 + $bonus_semanal + $bonus_mensal;
         // Junta o salario primario com o bonus mensal e o bonus semanal
@@ -68,7 +67,7 @@
         echo "<p>Bônus Semanal: R$ " . number_format($bonus_semanal, 2) . "</p>";
         echo "<p>Bônus Mensal: R$ " . number_format($bonus_mensal, 2) . "</p>";
         echo "<h2>O salário do(a) $nome é de " . number_format($salario2, 2) . "</h2>";
-    else {
+    }else {
         echo "<p>Por favor, preencha todos os campos.</p>";
     }
     ?>
